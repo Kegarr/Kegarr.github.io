@@ -5,7 +5,7 @@ traits_tab: 'Traits'
 animals_tab: 'Animals'
 weapons_tab: 'Weapons'
 pawn_kinds_tab: 'Pawn Kinds'
-armnor_tab: 'Armor'
+armor_tab: 'Armor'
 
 # Table headers
 mod_name_header: Mod Name
