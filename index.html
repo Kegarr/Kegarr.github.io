@@ -14,6 +14,7 @@ title: Store
 {%- assign traitsForDisplay = '' | split: ',' -%}
 {%- assign kindsForDisplay = site.data.ShopExt.races | where: "enabled", "true" | sort: "name" -%}
 {%- assign weaponsForDisplay = '' | split: ',' -%}
+{%- assign armorForDisplay = site.data.StoreItems.items | where: "category", "Armor" | where_exp: "armor", "armor.price > 0" | sort: "abr" -%}
 
 {%- for item in site.data.StoreItems.items -%}
     {%- if item.price <= 0 -%}
@@ -29,6 +30,11 @@ title: Store
         {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
         {%- continue -%}
     {%- endif -%}
+                         
+    {%- if item.category != "Armor" -%}
+        {%- assign itemsForDisplay = itemsForDisplay | push: item | sort: "abr" -%}
+        {%- continue -%}
+    {%- endif -%}                    
 {%- endfor -%}
 
 {%- for trait in site.data.ShopExt.traits -%}
@@ -58,6 +64,10 @@ title: Store
 
     {%- if weaponsForDisplay.size > 0 -%}
         {%- include tab.html id='weapons' -%}
+    {%- endif -%}
+
+    {%- if weaponsForDisplay.size > 0 -%}
+        {%- include tab.html id='armor' -%}
     {%- endif -%}
 
     {%- if animalsForDisplay.size > 0 -%}
@@ -122,6 +132,27 @@ title: Store
         priceDataHeaders=site.data.language.cost_header
         displayData=weaponsForDisplay
         placeholder=site.data.language.search_weapons -%}
+{%- endif -%}
+
+{%- if armorForDisplay.size > 0 -%}
+    {%- assign headers = '' | split: ',' -%}
+    {%- assign headers = headers | push: site.data.language.name_header -%}
+    {%- assign headers = headers | push: site.data.language.cost_header -%}
+
+    {%- if site.store.armor.category -%}
+        {%- assign headers = headers | push: site.data.language.category_header -%}
+    {%- endif -%}
+
+    {%- assign headers = headers | join: ',' -%}
+
+    {%- include store_tab.html 
+        id='items'
+        type='Item'
+        buyName=buy
+        headers=headers
+        priceDataHeaders='Cost'
+        displayData=itemsForDisplay
+        placeholder=site.data.language.search_armor -%}
 {%- endif -%}
 
 {%- if animalsForDisplay.size > 0 -%}
