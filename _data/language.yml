@@ -5,6 +5,7 @@ traits_tab: 'Traits'
 animals_tab: 'Animals'
 weapons_tab: 'Weapons'
 pawn_kinds_tab: 'Pawn Kinds'
+armnor_tab: 'Armor'
 
 # Table headers
 mod_name_header: Mod Name
@@ -37,6 +38,7 @@ search_commands: 'Search for commands...'
 search_animals: 'Search for animals...'
 search_events: 'Search for events...'
 search_weapons: 'Search for weapons...'
+search_armor: 'Search for armor...'
 
 # Metadata
 usage: 'Usage: %s'
