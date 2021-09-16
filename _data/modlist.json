@@ -9,7 +9,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.5.0"
+    "version": "1.5.2"
   },
   {
     "author": "UnlimitedHugs",
@@ -45,7 +45,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.3.5.0"
+    "version": "3.3.6.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -300,10 +300,10 @@
     "version": null
   },
   {
-    "author": "Cain",
-    "name": "Mines - Automated",
+    "author": "StatistNo1, Rebel_Rabbit and Cain",
+    "name": "Mines 2.0",
     "steamId": "2503894706",
-    "version": "1.0.0.0"
+    "version": "0.0.0.0"
   },
   {
     "author": "erdelf",
@@ -513,13 +513,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.5.1"
+    "version": "6.1.6.0"
   },
   {
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.0.0.0"
+    "version": "1.1.2"
   },
   {
     "author": "SirRandoo",
@@ -856,6 +856,12 @@
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
     "version": "1.0.1.2"
+  },
+  {
+    "author": "Mic,  Iron Wolf and  The Pheonix",
+    "name": "Pawnmorpher",
+    "steamId": "1786466855",
+    "version": "1.12.1"
   },
   {
     "author": "spoonshortage",
