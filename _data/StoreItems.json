@@ -1652,7 +1652,7 @@
 	},
 	{
 		"abr": "marinearmor",
-		"price": 3392,
+		"price": 2000,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor"
 	},
@@ -3668,7 +3668,7 @@
 	},
 	{
 		"abr": "antimatterreactor",
-		"price": 10792,
+		"price": -10,
 		"category": "Misc",
 		"defname": "AntimatterReactor_AA"
 	},
@@ -16733,7 +16733,523 @@
 		"price": 1083,
 		"category": "Ranged weapons",
 		"defname": "TST_Gun_TaggingGun"
-	}
+	},
+	{
+		"abr": "transformativeresurrectormechserum",
+		"price": 2833,
+		"category": "Items",
+		"defname": "MechSerumResurrectorTf"
+	},
+	{
+		"abr": "unstablegenome",
+		"price": 2833,
+		"category": "Artifacts",
+		"defname": "PM_ChaoThrumboGenome"
+	},
+	{
+		"abr": "alpacamorph",
+		"price": 1750,
+		"category": "Animal",
+		"defname": "AlpacaMorphRace_Implied"
+	},
+	{
+		"abr": "alphabeavermorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AlphabeaverMorphRace_Implied"
+	},
+	{
+		"abr": "bearmorph",
+		"price": 2042,
+		"category": "Animal",
+		"defname": "BearMorphRace_Implied"
+	},
+	{
+		"abr": "bearmorph",
+		"price": 2042,
+		"category": "Animal",
+		"defname": "PolarBearMorphRace_Implied"
+	},
+	{
+		"abr": "capybaramorph",
+		"price": 1583,
+		"category": "Animal",
+		"defname": "CapybaraMorphRace_Implied"
+	},
+	{
+		"abr": "cariboumorph",
+		"price": 1708,
+		"category": "Animal",
+		"defname": "CaribouMorphRace_Implied"
+	},
+	{
+		"abr": "cobramorph",
+		"price": 1583,
+		"category": "Animal",
+		"defname": "SnakeMorphRace_Implied"
+	},
+	{
+		"abr": "camelmorph",
+		"price": 1708,
+		"category": "Animal",
+		"defname": "DromedaryMorphRace_Implied"
+	},
+	{
+		"abr": "gazellemorph",
+		"price": 1583,
+		"category": "Animal",
+		"defname": "GazelleMorphRace_Implied"
+	},
+	{
+		"abr": "rhinomorph",
+		"price": 2042,
+		"category": "Animal",
+		"defname": "RhinocerosMorphRace_Implied"
+	},
+	{
+		"abr": "tortoisemorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "TortoiseMorphRace_Implied"
+	},
+	{
+		"abr": "wargmorph",
+		"price": 1833,
+		"category": "Animal",
+		"defname": "WargMorphRace_Implied"
+	},
+	{
+		"abr": "arcticwolfmorph",
+		"price": 1750,
+		"category": "Animal",
+		"defname": "ArcticWolfMorphRace_Implied"
+	},
+	{
+		"abr": "timberwolfmorph",
+		"price": 1750,
+		"category": "Animal",
+		"defname": "WolfMorphRace_Implied"
+	},
+	{
+		"abr": "boarmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "BoarMorphRace_Implied"
+	},
+	{
+		"abr": "boomamorph",
+		"price": 1750,
+		"category": "Animal",
+		"defname": "BoomalopeMorphRace_Implied"
+	},
+	{
+		"abr": "cassowarymorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "CassowaryMorphRace_Implied"
+	},
+	{
+		"abr": "catmorph",
+		"price": 1542,
+		"category": "Animal",
+		"defname": "CatMorphRace_Implied"
+	},
+	{
+		"abr": "chaocowmorph",
+		"price": 2292,
+		"category": "Animal",
+		"defname": "ChaocowMorphRace_Implied"
+	},
+	{
+		"abr": "chaoboommorph",
+		"price": 2292,
+		"category": "Animal",
+		"defname": "ChaoboomMorphRace_Implied"
+	},
+	{
+		"abr": "chaofoxmorph",
+		"price": 2458,
+		"category": "Animal",
+		"defname": "ChaofoxMorphRace_Implied"
+	},
+	{
+		"abr": "chaodinomorph",
+		"price": 2708,
+		"category": "Animal",
+		"defname": "ChaodinoMorphRace_Implied"
+	},
+	{
+		"abr": "chookmorph",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "ChookMorphRace_Implied"
+	},
+	{
+		"abr": "hellhoundmorph",
+		"price": 1833,
+		"category": "Animal",
+		"defname": "PM_HellhoundMorphRace_Implied"
+	},
+	{
+		"abr": "cougarmorph",
+		"price": 1792,
+		"category": "Animal",
+		"defname": "CougarMorphRace_Implied"
+	},
+	{
+		"abr": "cowmorph",
+		"price": 1708,
+		"category": "Animal",
+		"defname": "CowMorphRace_Implied"
+	},
+	{
+		"abr": "deermorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "DeerMorphRace_Implied"
+	},
+	{
+		"abr": "donkeymorph",
+		"price": 1725,
+		"category": "Animal",
+		"defname": "DonkeyMorphRace_Implied"
+	},
+	{
+		"abr": "duckmorph",
+		"price": 1508,
+		"category": "Animal",
+		"defname": "DuckMorphRace_Implied"
+	},
+	{
+		"abr": "elephantmorph",
+		"price": 1958,
+		"category": "Animal",
+		"defname": "ElephantMorphRace_Implied"
+	},
+	{
+		"abr": "emumorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "EmuMorphRace_Implied"
+	},
+	{
+		"abr": "foxmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "ArcticFoxMorphRace_Implied"
+	},
+	{
+		"abr": "foxmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "FennecFoxMorphRace_Implied"
+	},
+	{
+		"abr": "foxmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "FoxMorphRace_Implied"
+	},
+	{
+		"abr": "goatmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "GoatMorphRace_Implied"
+	},
+	{
+		"abr": "goosemorph",
+		"price": 1533,
+		"category": "Animal",
+		"defname": "GooseMorphRace_Implied"
+	},
+	{
+		"abr": "haremorph",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "HareMorphRace_Implied"
+	},
+	{
+		"abr": "snowharemorph",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "SnowhareMorphRace_Implied"
+	},
+	{
+		"abr": "horsemorph",
+		"price": 1917,
+		"category": "Animal",
+		"defname": "HorseMorphRace_Implied"
+	},
+	{
+		"abr": "huskymorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "HuskyMorphRace_Implied"
+	},
+	{
+		"abr": "iguanamorph",
+		"price": 1542,
+		"category": "Animal",
+		"defname": "IguanaMorphRace_Implied"
+	},
+	{
+		"abr": "labmorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "LabradorRetrieverMorphRace_Implied"
+	},
+	{
+		"abr": "lynxmorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "LynxMorphRace_Implied"
+	},
+	{
+		"abr": "slothmorph",
+		"price": 2042,
+		"category": "Animal",
+		"defname": "MegaslothMorphRace_Implied"
+	},
+	{
+		"abr": "monkeymorph",
+		"price": 1542,
+		"category": "Animal",
+		"defname": "MonkeyMorphRace_Implied"
+	},
+	{
+		"abr": "ostrichmorph",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "OstrichMorphRace_Implied"
+	},
+	{
+		"abr": "panthermorph",
+		"price": 1792,
+		"category": "Animal",
+		"defname": "PantherMorphRace_Implied"
+	},
+	{
+		"abr": "pigmorph",
+		"price": 1625,
+		"category": "Animal",
+		"defname": "PigMorphRace_Implied"
+	},
+	{
+		"abr": "raccoonmorph",
+		"price": 1542,
+		"category": "Animal",
+		"defname": "RaccoonMorphRace_Implied"
+	},
+	{
+		"abr": "ratmorph",
+		"price": 1483,
+		"category": "Animal",
+		"defname": "RatMorphRace_Implied"
+	},
+	{
+		"abr": "sheepmorph",
+		"price": 1633,
+		"category": "Animal",
+		"defname": "SheepMorphRace_Implied"
+	},
+	{
+		"abr": "squirrelmorph",
+		"price": 1483,
+		"category": "Animal",
+		"defname": "SquirrelMorphRace_Implied"
+	},
+	{
+		"abr": "thrumbomorph",
+		"price": 4792,
+		"category": "Animal",
+		"defname": "ThrumboMorphRace_Implied"
+	},
+	{
+		"abr": "turkeymorph",
+		"price": 1542,
+		"category": "Animal",
+		"defname": "TurkeyMorphRace_Implied"
+	},
+	{
+		"abr": "aerofleetmorph",
+		"price": 1558,
+		"category": "Animal",
+		"defname": "AA_AerofleetMorphRace_Implied"
+	},
+	{
+		"abr": "animusmorph",
+		"price": 1708,
+		"category": "Animal",
+		"defname": "AA_AnimusMorphRace_Implied"
+	},
+	{
+		"abr": "helixienmorph",
+		"price": 2083,
+		"category": "Animal",
+		"defname": "AA_HelixienMorphRace_Implied"
+	},
+	{
+		"abr": "aminorgenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Minor_Implicit"
+	},
+	{
+		"abr": "amajorgenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Major_Implicit"
+	},
+	{
+		"abr": "aextremegenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Extreme_Implicit"
+	},
+	{
+		"abr": "acombatgenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Combat_Implicit"
+	},
+	{
+		"abr": "acraftergenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Crafter_Implicit"
+	},
+	{
+		"abr": "asocialgenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Social_Implicit"
+	},
+	{
+		"abr": "aproductivegenome",
+		"price": 183,
+		"category": "Genomes",
+		"defname": "PM_Genome_Productive_Implicit"
+	},
+	{
+		"abr": "apowerfulgenome",
+		"price": 200,
+		"category": "Genomes",
+		"defname": "PM_Genome_Powerful_Implicit"
+	},
+	{
+		"abr": "achaocowgenome",
+		"price": 1833,
+		"category": "Genomes",
+		"defname": "PM_Genome_Chaocow_Implicit"
+	},
+	{
+		"abr": "achaoboomgenome",
+		"price": 1833,
+		"category": "Genomes",
+		"defname": "PM_Genome_Chaoboom_Implicit"
+	},
+	{
+		"abr": "achaofoxgenome",
+		"price": 2167,
+		"category": "Genomes",
+		"defname": "PM_Genome_Chaofox_Implicit"
+	},
+	{
+		"abr": "achaodinogenome",
+		"price": 2667,
+		"category": "Genomes",
+		"defname": "PM_Genome_Chaodino_Implicit"
+	},
+	{
+		"abr": "darklightmodule",
+		"price": 1717,
+		"category": "Ultratech",
+		"defname": "FSFImplantBrainDarklight"
+	},
+	{
+		"abr": "animalgate",
+		"price": 88,
+		"category": "Misc",
+		"defname": "VFEArch_AnimalGate"
+	},
+	{
+		"abr": "armoreddoor",
+		"price": 177,
+		"category": "Misc",
+		"defname": "VFEArch_ArmoredDoor"
+	},
+	{
+		"abr": "armoredwall",
+		"price": 36,
+		"category": "Misc",
+		"defname": "VFEArch_ArmoredWall"
+	},
+	{
+		"abr": "brickfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_BrickFence"
+	},
+	{
+		"abr": "celldoor",
+		"price": 88,
+		"category": "Misc",
+		"defname": "VFEArch_CellDoor"
+	},
+	{
+		"abr": "cellwall",
+		"price": 17,
+		"category": "Misc",
+		"defname": "VFEArch_CellWall"
+	},
+	{
+		"abr": "chainlinkfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_ChainlinkFence"
+	},
+	{
+		"abr": "finewall",
+		"price": 35,
+		"category": "Misc",
+		"defname": "VFEArch_FineWall"
+	},
+	{
+		"abr": "hedgewall",
+		"price": 7,
+		"category": "Misc",
+		"defname": "VFEArch_HedgeWall"
+	},
+	{
+		"abr": "invisiblefence",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VFEArch_InvisibleFence"
+	},
+	{
+		"abr": "logwall",
+		"price": 11,
+		"category": "Misc",
+		"defname": "VFEArch_LogWall"
+	},
+	{
+		"abr": "lowfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_LowFence"
+	},
+	{
+		"abr": "picketfence",
+		"price": 4,
+		"category": "Misc",
+		"defname": "VFEArch_PicketFence"
+	},
+	{
+		"abr": "singledoor",
+		"price": 54,
+		"category": "Misc",
+		"defname": "VFEArch_SingleDoor"
+	},
 	],
-	"total": 2791
+	"total": 2876
 }
