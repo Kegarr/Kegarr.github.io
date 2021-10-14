@@ -317,12 +317,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 750,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 600,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
@@ -436,76 +436,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphaasteroid",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "aeorofleetmigration",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "stalkingarcticlion",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingsnowclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingduneclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "stalkingclutchmother",
-		"price": 2000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaliskwanderin",
-		"price": 700,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "SummitCrabRaid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "cactipinedroppod",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "gallatrosswanderin",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "bumbledroneswanderin",
-		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "raidblackhive",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "raidmechanoidsappers",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fungalhuskwandersin",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "iceage",
 		"price": 15000,
 		"karmatype": "Doom"
@@ -547,7 +477,7 @@
 	},
 	{
 		"abr": "spacebattle",
-		"price": 600,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -557,12 +487,12 @@
 	},
 	{
 		"abr": "cargopodsweapons",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cargopodsapparel",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -591,5 +521,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 118
+	"total": 104
 }
