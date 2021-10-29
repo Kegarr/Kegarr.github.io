@@ -297,7 +297,7 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -317,12 +317,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 100,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 100,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 5000,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
