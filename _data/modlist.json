@@ -90,18 +90,6 @@
     "version": "2.17.133"
   },
   {
-    "author": "Neceros",
-    "name": "Bulk Smelting",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fuglypump,  Neceros and  Scherub",
-    "name": "Bulk Stonecutting [1.3]",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "DimonSever000",
     "name": "Cosmos+",
     "steamId": "2566517056",
@@ -150,6 +138,18 @@
     "version": null
   },
   {
+    "author": "DimonSever000",
+    "name": "Gun Tab+",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Apparel Tab+",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AliceTries and  updated by Ogliss",
     "name": "[WarHammer 40k] GeneSeed",
     "steamId": "2017823407",
@@ -178,6 +178,12 @@
     "name": "Colony Manager retexture",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "DimonSever000",
+    "name": "Events+",
+    "steamId": "2599784515",
+    "version": "1.0.0.0"
   },
   {
     "author": "Alias",
@@ -250,6 +256,18 @@
     "name": "Empire",
     "steamId": "2006535182",
     "version": "0.377"
+  },
+  {
+    "author": "Goldminermac",
+    "name": "Goldminermac's Empire: Security And Defense",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Goldminermac",
+    "name": "Goldminermac's Empire: Expanded Resource Buildings (unofficial)",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kosaro",
@@ -802,5 +820,29 @@
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jelly",
+    "name": "Propaganda TV",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kayedon",
+    "name": "[KYD] More Condiments",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kayedon",
+    "name": "[KYD] More Pawns Get Prosthetics!",
+    "steamId": null,
+    "version": null
   }
 ]

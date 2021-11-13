@@ -12036,6 +12036,18 @@
 		"category": "Drugs",
 		"defname": "GeneSeed"
 	},
+	{
+		"abr": "autopsytable",
+		"price": 400,
+		"category": "Production",
+		"defname": "TableAutopsy"
+	},
+	{
+		"abr": "geneseed(custodes)",
+		"price": 20000,
+		"category": "Drugs",
+		"defname": "GeneSeedCustodes"
+	},
 	],
-	"total": 2007
+	"total": 2009
 }
