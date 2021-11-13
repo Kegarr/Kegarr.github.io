@@ -5405,6 +5405,66 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
     }
   ],
   "races": [
@@ -5429,6 +5489,28 @@
       "enabled": true,
       "name": "human",
       "price": 3500
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$17500 Market value",
+          "+6.20 Move speed",
+          "-28.8F Minimum comfortable temperature",
+          "+64.8F Maximum comfortable temperature",
+          "+100 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "[WarHammer 40k] GeneSeed",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A human, modified by gene engineering and designed evolutionary pressures.",
+      "defName": "AstarteSpaceMarine",
+      "enabled": true,
+      "name": "Astarte Space Marine",
+      "price": 29167
     }
   ]
 }

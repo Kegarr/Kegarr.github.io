@@ -2816,7 +2816,7 @@
 	},
 	{
 		"abr": "securitycrate",
-		"price": 12,
+		"price": -10,
 		"category": "",
 		"defname": "AncientSecurityCrate"
 	},
@@ -6650,7 +6650,7 @@
 	},
 	{
 		"abr": "smallvanometricpowercell",
-		"price": 667,
+		"price": 1000,
 		"category": "Special",
 		"defname": "VFE_SmallVanometricPowerCell"
 	},
@@ -11952,6 +11952,90 @@
 		"category": "",
 		"defname": "JDSTableCrate"
 	},
+	{
+		"abr": "lifesupportsystem",
+		"price": 925,
+		"category": "Misc",
+		"defname": "QE_LifeSupportSystem"
+	},
+	{
+		"abr": "cargobeacon",
+		"price": 350,
+		"category": "Misc",
+		"defname": "Cosmos_CargoBeacon"
+	},
+	{
+		"abr": "orbitalpointer",
+		"price": 2000,
+		"category": "Utility",
+		"defname": "Cosmos_OrbitalPointer"
+	},
+	{
+		"abr": "ancientspacejunk",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientSpaceJunk"
+	},
+	{
+		"abr": "fleshcraftedhand",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedHand"
+	},
+	{
+		"abr": "astartecustodes",
+		"price": 84583,
+		"category": "Animal",
+		"defname": "AdaptusCustodes"
+	},
+	{
+		"abr": "astartecustodesmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_AdaptusCustodes"
+	},
+	{
+		"abr": "astartespacemarine",
+		"price": 29167,
+		"category": "Animal",
+		"defname": "AstarteSpaceMarine"
+	},
+	{
+		"abr": "astartespacemarinemeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_AstarteSpaceMarine"
+	},
+	{
+		"abr": "astarteadaptuscore",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "AstarteAdaptusCore"
+	},
+	{
+		"abr": "astarteadaptuscoremeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_AstarteAdaptusCore"
+	},
+	{
+		"abr": "fleshcraftedfinger",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedFinger"
+	},
+	{
+		"abr": "fleshcraftedtoe",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedToe"
+	},
+	{
+		"abr": "geneseed",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "GeneSeed"
+	},
 	],
-	"total": 1992
+	"total": 2007
 }

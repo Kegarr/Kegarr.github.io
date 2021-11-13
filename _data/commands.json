@@ -164,6 +164,23 @@
       "mod": "Twitch Toolkit"
     },
     "description": null,
+    "name": "Purchase list",
+    "usage": "!purchaselist",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
     "name": "Join queue",
     "usage": "!joinqueue",
     "userLevel": "Anyone",
@@ -183,6 +200,23 @@
     "description": null,
     "name": "Mod info",
     "usage": "!modinfo",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": true,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "Buy",
+    "usage": "!buy",
     "userLevel": "Anyone",
     "shortcut": false
   },
@@ -387,6 +421,23 @@
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
+    "userLevel": "Anyone",
+    "shortcut": true
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Upgrades a skill's passion... sometimes.",
+    "name": "Add passion",
+    "usage": "!passion <skill>",
     "userLevel": "Anyone",
     "shortcut": true
   },
