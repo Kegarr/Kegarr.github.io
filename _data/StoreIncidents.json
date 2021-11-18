@@ -3,12 +3,12 @@
 	{
 		"abr": "tornado",
 		"price": 800,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
 		"price": 2600,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -417,7 +417,7 @@
 	},
 	{
 		"abr": "smite",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Doom"
 	},
 	{
