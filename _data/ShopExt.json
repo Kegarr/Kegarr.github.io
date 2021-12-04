@@ -5087,7 +5087,7 @@
       "defName": "ShootingAccuracy",
       "name": "deadshot",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3000,
       "removePrice": 100,
       "degree": 2
@@ -5453,7 +5453,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
         "karmaTypeForAdding": null,
@@ -5469,7 +5469,7 @@
         ]
       },
       "defName": "ShootingAccuracy",
-      "name": "deadshot",
+      "name": "deadshot1",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3000,
@@ -5782,7 +5782,7 @@
       },
       "description": "Standard Security variant of the Defender, mostly commonly found on starships to urban military installations. It features higher armour.",
       "defName": "RSPeacekeeperDefender",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender",
       "price": 4667
     },
@@ -5812,7 +5812,7 @@
       },
       "description": "Forest variant of the Defender. It features higher melee skills and agility and has a movement bonus on forest terrain.",
       "defName": "RSPeacekeeperDefenderForest",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender Forest",
       "price": 4667
     },
@@ -5842,7 +5842,7 @@
       },
       "description": "Desert variant of the Defender. It features higher rate of fire and has a movement bonus on desert terrain.",
       "defName": "RSPeacekeeperDefenderDesert",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender Desert",
       "price": 4667
     },
@@ -5872,7 +5872,7 @@
       },
       "description": "Winter variant of the Defender. It features higher accuracy and has a movement bonus on snowy terrain.",
       "defName": "RSPeacekeeperDefenderWinter",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender Winter",
       "price": 4667
     },
@@ -5902,7 +5902,7 @@
       },
       "description": "Standard Security variant of the Enforcer, a common sight on war torn planets and are fielded by massive private and planetary armies. It features higher armour.",
       "defName": "RSPeacekeeperEnforcer",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer",
       "price": 7917
     },
@@ -5932,7 +5932,7 @@
       },
       "description": "Forest variant of the Enforcer. It features higher melee skills and agility and has a movement bonus on forest terrain.",
       "defName": "RSPeacekeeperEnforcerForest",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer Forest",
       "price": 7917
     },
@@ -5962,7 +5962,7 @@
       },
       "description": "Desert variant of the Enforcer. It features higher rate of fire and has a movement bonus on desert terrain.",
       "defName": "RSPeacekeeperEnforcerDesert",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer Desert",
       "price": 7917
     },
@@ -5992,7 +5992,7 @@
       },
       "description": "Winter variant of the Enforcer. It features higher accuracy and has a movement bonus on snowy terrain.",
       "defName": "RSPeacekeeperEnforcerWinter",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer Winter",
       "price": 7917
     },
@@ -6022,7 +6022,7 @@
       },
       "description": "Standard Security variant of the Sentinel, they are often found in few numbers supporting the vast armies of Defenders and Enforcers in an ongoing conflict. It features higher armour.",
       "defName": "RSPeacekeeperSentinel",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel",
       "price": 23333
     },
@@ -6052,7 +6052,7 @@
       },
       "description": "Forest variant of the Sentinel. It features higher melee skills and agility and has a movement bonus on forest terrain.",
       "defName": "RSPeacekeeperSentinelForest",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel Forest",
       "price": 23333
     },
@@ -6082,7 +6082,7 @@
       },
       "description": "Desert variant of the Sentinel. It features higher rate of fire and has a movement bonus on desert terrain.",
       "defName": "RSPeacekeeperSentinelDesert",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel Desert",
       "price": 23333
     },
@@ -6112,7 +6112,7 @@
       },
       "description": "Winter variant of the Sentinel. It features higher accuracy and has a movement bonus on snowy terrain.",
       "defName": "RSPeacekeeperSentinelWinter",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel Winter",
       "price": 23333
     },
