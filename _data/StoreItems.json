@@ -2204,13 +2204,13 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 3000,
 		"category": "Animals",
 		"defname": "Rat"
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": 3000,
 		"category": "Animals",
 		"defname": "Boomrat"
 	},
@@ -13002,6 +13002,294 @@
 		"category": "Ranged weapons",
 		"defname": "Gun_RSThumper"
 	},
+	{
+		"abr": "ancientterminal",
+		"price": 6,
+		"category": "Misc",
+		"defname": "AncientTerminal_Worshipful"
+	},
+	{
+		"abr": "archotechanimalproduct",
+		"price": 8,
+		"category": "Animal products",
+		"defname": "ArchotechMilkEggThing"
+	},
+	{
+		"abr": "archotechbattery",
+		"price": 6667,
+		"category": "Special",
+		"defname": "MAG_ArchotechBatteryS"
+	},
+	{
+		"abr": "archotechcleaner",
+		"price": 4125,
+		"category": "Furniture",
+		"defname": "MAG_GarbageBin"
+	},
+	{
+		"abr": "archotechcooler",
+		"price": 833,
+		"category": "Special",
+		"defname": "ArchoReverseTemperatureThing"
+	},
+	{
+		"abr": "archotechfish",
+		"price": 8,
+		"category": "Raw fish",
+		"defname": "MAG_VCEF_ArchotechFish"
+	},
+	{
+		"abr": "archotechfragment",
+		"price": 92,
+		"category": "Raw resources",
+		"defname": "ArchotechScrap"
+	},
+	{
+		"abr": "archotechheater",
+		"price": 833,
+		"category": "Special",
+		"defname": "ArchoStandardTemperatureThing"
+	},
+	{
+		"abr": "archotechjoris",
+		"price": 16667,
+		"category": "Animals",
+		"defname": "JE_MAG_TotallyArchotechJorris"
+	},
+	{
+		"abr": "archotechjorissummon",
+		"price": 16667,
+		"category": "Eggs (fert.)",
+		"defname": "MAG_ArchotechJorisSummon"
+	},
+	{
+		"abr": "archotechkibble",
+		"price": 50,
+		"category": "Foods",
+		"defname": "MAG_Archotech_Kibble"
+	},
+	{
+		"abr": "archotechlight",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchoLampThing"
+	},
+	{
+		"abr": "archotechlimbassembler",
+		"price": 41667,
+		"category": "Special",
+		"defname": "ArchoPartAssembler"
+	},
+	{
+		"abr": "archotechmass",
+		"price": 92,
+		"category": "Raw resources",
+		"defname": "archotechmatteraddingsomecraptoavoidproblems"
+	},
+	{
+		"abr": "archotechmeal",
+		"price": 300,
+		"category": "Meals",
+		"defname": "MealArchoAdvanced"
+	},
+	{
+		"abr": "archotechmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SuperDuperArchoMeat"
+	},
+	{
+		"abr": "archotechmedicine",
+		"price": 2083,
+		"category": "Medicine",
+		"defname": "ArchotechishMedicine"
+	},
+	{
+		"abr": "archotechnourisher",
+		"price": 6250,
+		"category": "Special",
+		"defname": "ArchoCookingAssistant"
+	},
+	{
+		"abr": "archotechplantmatter",
+		"price": 8,
+		"category": "Vegetarian",
+		"defname": "SuperDuperArchoPlant"
+	},
+	{
+		"abr": "archotechresearchassistant",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchoDecipherAI"
+	},
+	{
+		"abr": "archotechresurrector",
+		"price": 5833,
+		"category": "Items",
+		"defname": "MechSerumResurrectorButBetter"
+	},
+	{
+		"abr": "archotechwall",
+		"price": 225,
+		"category": "Misc",
+		"defname": "ArchotechWallNoRepair"
+	},
+	{
+		"abr": "archotechwall(+)",
+		"price": 400,
+		"category": "Misc",
+		"defname": "ArchotechWallRepair"
+	},
+	{
+		"abr": "archotechworkbench",
+		"price": 833,
+		"category": "Production",
+		"defname": "ArchBench"
+	},
+	{
+		"abr": "autoresearcher",
+		"price": 8333,
+		"category": "Special",
+		"defname": "MAG_AutoResearcher"
+	},
+	{
+		"abr": "largearchotechreplicator",
+		"price": 2625000,
+		"category": "Special",
+		"defname": "MAG_ArchoReproductorLarge"
+	},
+	{
+		"abr": "mechanoidsummoner",
+		"price": 4167,
+		"category": "Special",
+		"defname": "ArchoMechSummoner"
+	},
+	{
+		"abr": "mediumarchotechreplicator",
+		"price": 262500,
+		"category": "Special",
+		"defname": "MAG_ArchoReproductorMedium"
+	},
+	{
+		"abr": "meteoritesummoner",
+		"price": 4167,
+		"category": "Special",
+		"defname": "ArchoMeteorSummon"
+	},
+	{
+		"abr": "podsummoner",
+		"price": 4167,
+		"category": "Special",
+		"defname": "ArchoPodGenerator"
+	},
+	{
+		"abr": "primitivearchotechlight",
+		"price": 132,
+		"category": "Special",
+		"defname": "MAG_ArchotechTorchLamp"
+	},
+	{
+		"abr": "primitivearchotechwall",
+		"price": 109,
+		"category": "Misc",
+		"defname": "MAG_PrimitiveArchotechWall"
+	},
+	{
+		"abr": "psychicanimaltrainer",
+		"price": 917,
+		"category": "Utility",
+		"defname": "TrainingArtifact"
+	},
+	{
+		"abr": "psychichealerlance",
+		"price": 917,
+		"category": "Utility",
+		"defname": "HealAndStuffArtifact"
+	},
+	{
+		"abr": "psychicinspirationlance",
+		"price": 917,
+		"category": "Utility",
+		"defname": "InspireArtifact"
+	},
+	{
+		"abr": "psychickillswitch",
+		"price": 917,
+		"category": "Utility",
+		"defname": "DeathArtifact"
+	},
+	{
+		"abr": "psychicmanipulator",
+		"price": 16667,
+		"category": "Special",
+		"defname": "RaidorJoinorTameorManhunter"
+	},
+	{
+		"abr": "psychicrecruiter",
+		"price": 917,
+		"category": "Utility",
+		"defname": "RecruitArtifact"
+	},
+	{
+		"abr": "psychicstasislance",
+		"price": 917,
+		"category": "Utility",
+		"defname": "StatisArtifact"
+	},
+	{
+		"abr": "psychicterrorpulser",
+		"price": 2500,
+		"category": "Artifacts",
+		"defname": "PsychicSpookPulser"
+	},
+	{
+		"abr": "psychictranquilitylance",
+		"price": 917,
+		"category": "Utility",
+		"defname": "MentalResetArtifact"
+	},
+	{
+		"abr": "psyrestorelance",
+		"price": 917,
+		"category": "Utility",
+		"defname": "PsyrestoreArtifact"
+	},
+	{
+		"abr": "resourceassembler",
+		"price": 8333,
+		"category": "Special",
+		"defname": "SexyResourceDispenser"
+	},
+	{
+		"abr": "archotechbioadapter",
+		"price": 83333,
+		"category": "Archotech",
+		"defname": "ArchotechBioadapter"
+	},
+	{
+		"abr": "archotechcortex",
+		"price": 83333,
+		"category": "Archotech",
+		"defname": "ArchotechCortex"
+	},
+	{
+		"abr": "archotechmetamorphose",
+		"price": 83333,
+		"category": "Archotech",
+		"defname": "ArchotechMetamorphose"
+	},
+	{
+		"abr": "archotechregenerator",
+		"price": 83333,
+		"category": "Archotech",
+		"defname": "ArchotechRegenerator"
+	},
+	{
+		"abr": "archotechsubdermalarmor",
+		"price": 83333,
+		"category": "Archotech",
+		"defname": "ArchotechSubdermalArmor"
+	}
 	],
-	"total": 2168
+	"total": 2216
 }

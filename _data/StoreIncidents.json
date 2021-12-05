@@ -396,11 +396,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "equip",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -531,5 +526,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 106
+	"total": 105
 }
