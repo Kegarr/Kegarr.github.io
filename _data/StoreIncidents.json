@@ -131,6 +131,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -148,7 +153,7 @@
 	{
 		"abr": "ambrosiasprout",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "herdmigration",
@@ -531,5 +536,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 106
+	"total": 107
 }
