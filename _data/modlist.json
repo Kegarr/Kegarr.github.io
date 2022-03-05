@@ -48,24 +48,6 @@
     "version": "3.4.0.0"
   },
   {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Advanced Bionics Expansion",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrKociak",
-    "name": "Advanced Bionics Expansion - personal compatibility/balance patches",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -100,6 +82,12 @@
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.5"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki and  Taranchuk",
@@ -138,6 +126,12 @@
     "version": null
   },
   {
+    "author": "3HST Limited",
+    "name": "Bill Doors' Instant Noodles",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NukaFrog",
     "name": "BioReactor",
     "steamId": null,
@@ -150,16 +144,28 @@
     "version": null
   },
   {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Bionic icons",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.1.0"
+    "version": "2.2.3.0"
   },
   {
     "author": "AobaKuma",
@@ -176,12 +182,6 @@
   {
     "author": "Hatti",
     "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alias",
-    "name": "De-generalize Work",
     "steamId": null,
     "version": null
   },
@@ -252,6 +252,12 @@
     "version": "1.2.0"
   },
   {
+    "author": "Mlie",
+    "name": "Linkable Settings",
+    "steamId": "2739581441",
+    "version": "1.3.1"
+  },
+  {
     "author": "Avius and  Hazzer",
     "name": "Locks",
     "steamId": null,
@@ -314,8 +320,8 @@
   {
     "author": "Mehni",
     "name": "Pick Up And Haul",
-    "steamId": null,
-    "version": null
+    "steamId": "1279012058",
+    "version": "1.0.0"
   },
   {
     "author": "Jelly",
@@ -364,6 +370,18 @@
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Alias",
+    "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - Medieval Talents",
+    "steamId": "1916352291",
+    "version": "1.0.0.0"
   },
   {
     "author": "rooki1",
@@ -618,18 +636,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Blueprints",
-    "steamId": "708455313",
-    "version": "2.17.133"
-  },
-  {
-    "author": "legodude17 and  Oskar Potocki",
-    "name": "Vanilla UI Expanded",
-    "steamId": "2749945924",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Murmur",
     "name": "Wall Light",
     "steamId": "1423699208",
@@ -662,12 +668,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
   },
@@ -714,6 +714,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Neronix17",
+    "name": "[O21] Mechadroids",
+    "steamId": "2209025387",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "rooki1",
     "name": "Rimsenal - Rimhair",
     "steamId": null,
@@ -739,6 +745,12 @@
   },
   {
     "author": "Neronix17",
+    "name": "[O21] Subpersona Shells",
+    "steamId": "2771583816",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
     "name": "[O21] Tweaks Galore",
     "steamId": "2695164414",
     "version": "1.0.0.0"
@@ -746,6 +758,12 @@
   {
     "author": "Neronix17",
     "name": "[O21] Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SpookieWookie",
+    "name": "[SPK] Additional Vanilla Crafting",
     "steamId": null,
     "version": null
   },
