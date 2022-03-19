@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 1000,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "tornados",
-		"price": 3000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -163,6 +153,11 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -456,19 +451,9 @@
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "psychicrain",
-		"price": 25000,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "longnight",
 		"price": 25000,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "psychicbloom",
-		"price": 10000,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hailstorm",
@@ -531,5 +516,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 106
+	"total": 103
 }
