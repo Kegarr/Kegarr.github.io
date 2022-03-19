@@ -45,35 +45,11 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.4.0.0"
+    "version": "3.4.4.0"
   },
   {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "xrushha",
-    "name": "Anima Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Anima Obelisk",
-    "steamId": "2614248835",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "taranchuk",
-    "name": "Archotech++",
-    "steamId": "2669831743",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Backstories+",
     "steamId": null,
     "version": null
   },
@@ -126,12 +102,6 @@
     "version": null
   },
   {
-    "author": "3HST Limited",
-    "name": "Bill Doors' Instant Noodles",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "NukaFrog",
     "name": "BioReactor",
     "steamId": null,
@@ -140,12 +110,6 @@
   {
     "author": "jeonggihun",
     "name": "BioReactor retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
     "version": null
   },
@@ -162,10 +126,34 @@
     "version": "2.17.133"
   },
   {
+    "author": "Kegarr",
+    "name": "Bulk Shells and Components",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cults",
+    "steamId": "815039373",
+    "version": "1.0.23.5"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Factions",
+    "steamId": "764375772",
+    "version": "1.0.3.4"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.3.0"
+    "version": "2.2.4.0"
   },
   {
     "author": "AobaKuma",
@@ -184,6 +172,12 @@
     "name": "CleaningArea",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Convert Then Recruit",
+    "steamId": "2702584632",
+    "version": "1.3.10"
   },
   {
     "author": "UnlimitedHugs",
@@ -211,33 +205,9 @@
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Bad Hygiene Lite",
-    "steamId": "2570319432",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.0.0"
-  },
-  {
-    "author": "Harkon and JangoD'soul",
-    "name": "Dusk Armory",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tyrannical_Elmo and  Scorpio",
-    "name": "Elmo's More Dryads Adopted",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Events+",
-    "steamId": "2599784515",
-    "version": "1.0.0.0"
   },
   {
     "author": "Fluffy",
@@ -246,10 +216,16 @@
     "version": "4.9.95"
   },
   {
-    "author": "Garethp",
-    "name": "From Ashes to Ashes, Dust to Dust",
-    "steamId": "2753920635",
-    "version": "1.2.0"
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell",
+    "name": "H.P. Lovecraft Storyteller",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mlie",
@@ -282,30 +258,6 @@
     "version": "1.0.7393.34550"
   },
   {
-    "author": "Haplo",
-    "name": "Miscellaneous 'CORE'",
-    "steamId": "704181221",
-    "version": "1.3.1"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. MapGenerator",
-    "steamId": "704182588",
-    "version": "1.3.0"
-  },
-  {
-    "author": "MrKociak",
-    "name": "More Archotech Garbage Reupload",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "noodlesking",
-    "name": "More Psycasts",
-    "steamId": "2460833332",
-    "version": "1.0.0.1"
-  },
-  {
     "author": "Doug",
     "name": "No Job Authors",
     "steamId": null,
@@ -324,22 +276,10 @@
     "version": "1.0.0"
   },
   {
-    "author": "Jelly",
-    "name": "Propaganda TV",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "iamrespawn",
     "name": "Prosthetic No Missing Body Parts (Continued)",
     "steamId": "2739055353",
     "version": "1.3.1"
-  },
-  {
-    "author": "DimonSever000",
-    "name": "Psionic+",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Sandy",
@@ -348,8 +288,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Rah",
-    "name": "Rah's Vanilla Turrets Expansion",
+    "author": "DimonSever000",
+    "name": "RPG Traits+",
     "steamId": null,
     "version": null
   },
@@ -372,6 +312,48 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.10"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Gemstones",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Defences",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Arcane Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sierra",
+    "name": "RimFantasy - Temperature Regulation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "RimForge",
+    "steamId": "2505778174",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Sierra",
+    "name": "RimTraits - General Traits",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Alias",
     "name": "De-generalize Work",
     "steamId": null,
@@ -382,12 +364,6 @@
     "name": "RimTraits - Medieval Talents",
     "steamId": "1916352291",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Augmented Vanilla Pack",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "rooki1",
@@ -406,18 +382,6 @@
     "name": "RuntimeGC [1.3]",
     "steamId": "2559582557",
     "version": "0.1.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Seamless Embrasures",
-    "steamId": "2290689449",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Taelim",
-    "name": "Seamless Embrasures for Armored and Reinforces Walls",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Roolo",
@@ -456,6 +420,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Chicken Plucker",
+    "name": "DOOM - Factions (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "IcyCheeseCake",
+    "name": "TasteOfVanilla-ish Doom Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Murmur",
     "name": "Temperature Control Unit",
     "steamId": null,
@@ -483,7 +459,7 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.7"
+    "version": "1.1.9"
   },
   {
     "author": "hodlhodl",
@@ -501,13 +477,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.3"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Harvest Yield",
-    "steamId": "1461790308",
-    "version": "1.0.0.0"
+    "version": "1.6.5"
   },
   {
     "author": "Grimm",
@@ -518,12 +488,6 @@
   {
     "author": "Oskar Potocki,  xrushha and  SmashPhil",
     "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Brewing Expanded",
     "steamId": null,
     "version": null
   },
@@ -564,12 +528,6 @@
     "version": null
   },
   {
-    "author": "OskarPotocki,  Atlas and  Kikohi",
-    "name": "Vanilla Furniture Expanded - Medical Module",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Power",
     "steamId": "2062943477",
@@ -584,18 +542,6 @@
   {
     "author": "OskarPotocki,  Atlas and  Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Taranchuk and  xrushha",
-    "name": "Vanilla Ideology Expanded - Anima Theme",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki,  Sarg Bjornson,  Taranchuk and  Reann Shepard",
-    "name": "Vanilla Ideology Expanded - Dryads",
     "steamId": null,
     "version": null
   },
@@ -624,16 +570,16 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki and  Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
     "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  AveryTheKitty and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Murmur",
@@ -652,6 +598,12 @@
     "name": "Xenobionic Patcher",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation",
+    "steamId": "2575938407",
+    "version": "1.0.0.0"
   },
   {
     "author": "notfood",
@@ -673,45 +625,9 @@
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Consolidated Traits",
-    "steamId": "1507384362",
-    "version": "1.0.7865.41688"
-  },
-  {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
-    "name": "[KV] Faction Control",
-    "steamId": "1509102551",
-    "version": "1.0.8051.16528"
-  },
-  {
-    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
     "version": "1.0.7862.37403"
-  },
-  {
-    "author": "Kayedon",
-    "name": "[KYD] More Pawns Get Prosthetics!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Adjustable Anima",
-    "steamId": "2297332187",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Adjustable Gauranlen",
-    "steamId": "2560002213",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Celestials",
-    "steamId": "2483263407",
-    "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",
@@ -721,7 +637,7 @@
   },
   {
     "author": "rooki1",
-    "name": "Rimsenal - Rimhair",
+    "name": "Rimsenal - Hair pack",
     "steamId": null,
     "version": null
   },
@@ -735,6 +651,12 @@
     "author": "Neronix17",
     "name": "[O21] Role Apparel Unlocker",
     "steamId": "2555586497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Seamless Embrasures",
+    "steamId": "2290689449",
     "version": "1.0.0.0"
   },
   {
@@ -753,7 +675,7 @@
     "author": "Neronix17",
     "name": "[O21] Tweaks Galore",
     "steamId": "2695164414",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "Neronix17",
@@ -772,17 +694,5 @@
     "name": "[SR]Raid Extension",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Individuality",
-    "steamId": "1497105115",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Set Up Camp",
-    "steamId": "1470065926",
-    "version": "1.0.0.0"
   }
 ]
