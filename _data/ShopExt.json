@@ -2196,8 +2196,8 @@
       },
       "defName": "ShootingAccuracy",
       "name": "carefulshooter",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 2000,
       "removePrice": 100,
       "degree": 2
@@ -2324,8 +2324,8 @@
       },
       "defName": "ShootingAccuracy",
       "name": "carefulshooter",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 2000,
       "removePrice": 100,
       "degree": 3

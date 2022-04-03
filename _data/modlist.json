@@ -6,6 +6,12 @@
     "version": "1.2.0.0"
   },
   {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -39,7 +45,7 @@
     "author": "Neronix17",
     "name": "[O21] Toolbox",
     "steamId": "1660622094",
-    "version": "1.0.0.0"
+    "version": "1.0.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -110,6 +116,12 @@
   {
     "author": "jeonggihun",
     "name": "BioReactor retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
     "version": null
   },
@@ -552,7 +564,7 @@
     "version": null
   },
   {
-    "author": "legodude17,  Oskar Potocki,  Chowder and  Kikohi",
+    "author": "Anonymous, legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
     "version": null
@@ -675,7 +687,7 @@
     "author": "Neronix17",
     "name": "[O21] Tweaks Galore",
     "steamId": "2695164414",
-    "version": "1.0.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",
