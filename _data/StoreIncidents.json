@@ -28,7 +28,7 @@
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "snowgentle",
@@ -83,7 +83,7 @@
 	{
 		"abr": "eclipse",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "aurora",
@@ -421,26 +421,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raidpoachers",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "raidloggers",
-		"price": 1000,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "hostiletraveler",
-		"price": 400,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "hostilecaravan",
-		"price": 700,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "iceage",
 		"price": 15000,
 		"karmatype": "Doom"
@@ -516,5 +496,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 103
+	"total": 99
 }
